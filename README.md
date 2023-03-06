@@ -10,7 +10,7 @@
 
 <b>Яндекс.Метро</b> - мобильное приложение, которое помогает ориентироваться в метро.
 
-<script>/*![mobile application](https://github.com/petrova-andm/Yandex.Metro/blob/main/images/project-3-sprint41.png)*/</script>
+<script>/ *![mobile application](https://github.com/petrova-andm/Yandex.Metro/blob/main/images/project-3-sprint41.png) */</script>
 
 В ходе работы над мобильным приложением Яндекс.Метро я:  
 1. Проанализировала требования и написала [чек-лист](https://docs.google.com/spreadsheets/d/1xg_fyf8CzPgYrkCS2yPx7S9KOZaZj6annvlVy_Fvw0w/edit#gid=857523888).
